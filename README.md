@@ -24,4 +24,4 @@ The robot will approach the right edge of the field and delicately place the obj
 Notes
 This autonomous routine is customized for the specific configuration and capabilities of Pars Junior #25186.
 Adjustments may be necessary based on field conditions and real-time performance observations.
-It' Only For Red2 left
+It' Only For Red2 right
